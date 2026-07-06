@@ -4,7 +4,8 @@ Homebrew tap for [clamui](https://murilo-cunha.github.io/clamui-site/) — a mar
 editor with Claude built in.
 
 ```bash
-brew install murilo-cunha/clamui/clamui
+brew tap murilo-cunha/clamui
+brew install clamui
 ```
 
 Apple silicon only. The cask is bumped automatically on every release; versions and
