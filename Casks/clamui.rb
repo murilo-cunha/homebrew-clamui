@@ -1,6 +1,6 @@
 cask "clamui" do
-  version "0.5.0"
-  sha256 "e1d79db3aecca95b4d48ea380b6aff7028c77d92b434252fc7c01e2cb10fc4e1"
+  version "1.0.0"
+  sha256 "c721ee894fef5642a344077016712583fd404c40cd8d89491b1a0ec0b780f2f7"
 
   url "https://github.com/murilo-cunha/clamui-site/releases/download/v#{version}/clamui_#{version}_aarch64.dmg"
   name "clamui"
